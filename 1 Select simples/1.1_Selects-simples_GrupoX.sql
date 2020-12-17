@@ -4,7 +4,7 @@
 /* 1
 Describir la tabla employees
 */
-sfdsdff
+
 /* 2
 Describir la tabla departments
 */
