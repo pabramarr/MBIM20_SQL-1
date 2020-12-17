@@ -3,7 +3,7 @@
 ------------------------------------------------------------------------------------------------
 /* 1
 Describir la tabla employees
-*/HOLAAAAAA
+*/
 
 /* 2
 Describir la tabla departments
